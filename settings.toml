@@ -1,0 +1,11 @@
+fps = 60
+windowWidth = 600
+windowHeight = 400
+title = "JoglEngine by JCOUD"
+
+[textFont]
+  name = "Consolas"
+  style = 1
+  size = 12
+  pointSize = 12.0
+  fontSerializedDataVersion = 1
